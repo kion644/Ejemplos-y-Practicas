@@ -1,0 +1,20 @@
+*{
+    text-align: center;
+}
+* {
+    background: rgb(129, 200, 233);
+}
+header {
+    font-family: 'Times New Roman';
+}
+
+h1 {
+    font-size: 40px;
+}
+p {
+    border: 1px solid; color: black;
+}
+
+aside {
+    text-align: right;
+}
